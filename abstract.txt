@@ -1,9 +1,44 @@
 Purpose: 
+    The purpose of this project is to create my own static personal website that will be hosted via GitHub Pages. 
+    This is also meant to be a learning project that helps with learning both frontend and backend web development,
+    using HTML, for the UI, CSS for styling, and JavaScript for the functionality of the website. I have little experience 
+    with JS so mostly this is learning JS through a project that brings value to my portfolio. 
 
-
-Tech Stack:
+Tech Stack: (Basic implementation tools for a website)
     UI - HTML (index.html)
     Styling - CSS (styles.css)
     Logic - JavaScript (app.js)
 
 Layout Structure/Overview:
+    Header: 
+        - Navigational Links (About, Projects, Education, Experience, Contact)
+
+    Introduction:
+        - Includes:
+            - Picture of self
+            - `Hello, I'm Rieley Dechenne` + `Computer Science, Cyber Security, and App development`
+            - Creative catch phrase styling, e.g. 'I like to code 🐍' 
+            - Quick link buttons: Resume, Projects, Contact 
+
+    About Me:
+        - Figure a creative styling feature using CSS that combines code and basic information about self. `Elevator pitch`
+
+    Projects:
+        - Bait Company CRM: Full Stack Projects
+        - EDA Podcast Listening History: Python, Machine Learning, Data Science
+        - Yahtzee Remake: Java, Java Swing, team-collaboration project
+        - Personal portfolio website: HTML, CSS, JavaScript 
+    
+    Education - Include: School Logo, name, relavant coursework, skills obtained
+        - Gonzaga University: BS Computer Science Minor in Cyber Security Concentration in Software Application Development
+            - ACM club member, community service, etc.
+        - Spokane Falls Community College: AA Business Management 
+            - Honor Roll, community service,  
+    
+    Experience:
+        - 
+        -
+        
+    Contact Me:
+        - Email:
+        - LinkedIn: 
