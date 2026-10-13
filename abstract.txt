@@ -1,0 +1,9 @@
+Purpose: 
+
+
+Tech Stack:
+    UI - HTML (index.html)
+    Styling - CSS (styles.css)
+    Logic - JavaScript (app.js)
+
+Layout Structure/Overview:
