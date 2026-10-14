@@ -1,0 +1,17 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    border-bottom: 1px solid black;
+}
+
+.navigationBar li {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.navigationItem {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
